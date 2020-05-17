@@ -1,7 +1,7 @@
 # Book List
 <a href="https://imgur.com/mUG8Ohy"><img src="https://i.imgur.com/mUG8Ohy.gif" title="source: imgur.com" /></a>
 **Description:**
-No idea what to read today? Then this simple app will help you. Prepare a list of books you want to read and you will never get such question again. Book List stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+Have no idea what to read today? Well, sometimes we all have such problem. But I have a solution. Check this simple app which will help you. Just prepare a list of books you want to read and you will never get such problem again. Book List stores your files in browser, which means all your files are automatically saved locally and are accessible **offline!**
 ### [LIVE](https://richboyscrytoo.github.io/Book-List/)
 **Technologies used:**
  - HTML
